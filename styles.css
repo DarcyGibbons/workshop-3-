@@ -1,0 +1,16 @@
+body{
+  background-color: lightsalmon;
+}
+
+
+.block1{
+  background-color: yellow;
+  width: 200px;
+  float: left;
+}
+
+.block2{
+  background-color: purple;
+  width: 200px;
+  float: left;
+}
