@@ -3,16 +3,43 @@ body{
   color: white;
 }
 
-
+/*
 div{
   outline: 1px solid yellow;
 }
+*/
+
 
 .logoContainer{
-width: 920px;
+max-width: 920px;
 margin-left: auto;
 margin-right: auto;
 overflow-x: hidden;
+}
+
+.nav{
+  background-color: rgba(0,0,0, 0.25);
+  height: 62px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 920px;
+}
+
+.nav ol{
+  padding: 18px 10px;
+}
+
+
+.nav li{
+  border-right: 1px solid #d4b364;
+  display: block;
+  float: left;
+  padding: 6px 20px;
+  font-family: sans-serif;
+  }
+
+.nav li:last-child{
+border-right: none;
 }
 
 .logo{
