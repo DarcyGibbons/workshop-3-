@@ -66,7 +66,7 @@ border-right: none;
   height: 216px;
   max-width: 924px;
   background-color: rgba(135, 169, 132, 1);
-  overflow: hidden;
+
 }
 
 .paper-plane{
@@ -91,4 +91,51 @@ border-right: none;
   height: 105px;
   margin-top: 50px;
 
+}
+
+.how-we-work{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 16px;
+  max-height: 924px;
+  max-width: 924px;
+  background-color: rgba(219, 216, 197, 1);
+
+}
+
+.hww-nav{
+  height: 924px;
+  max-width: 196px;
+  background-color: rgba(150, 175, 172, 1);
+}
+
+.hww-nav ol{
+  padding: 34px 18px;
+}
+
+.hww-nav li{
+
+  border-bottom-color: white;
+  display: block;
+  float: left;
+  padding: 10px 20px;
+  font-family: sans-serif;
+}
+
+.hww-header{
+  margin-left: 247px;
+  margin-top: 40px;
+  font-family: sans-serif;
+  font-size: 1.8rem;
+  height: 36px;
+  width: 300px;
+  color: rgba(89, 106, 117, 1);
+}
+
+.hww-body{
+  margin-left: 247px;
+  margin-top: 40px;
+  font-family: sans-serif;
+  color: black;
+  
 }
